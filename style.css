@@ -219,7 +219,7 @@ select {
 	margin-block-start: var(--margin-1_75);
 }
 .profile-thumbnail {
-	max-width: 34px;
+	max-width: 32px;
 	width: 100%;
 	max-height: 32px;
 	height: auto;
